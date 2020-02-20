@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LynDevcampViewTool::Renderer.copyright 'First_Name Last_Name', 'All rights reserved'
+```
 
 ## Development
 
